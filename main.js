@@ -37,6 +37,6 @@
 
  function take_snapshot()
  {
-    save('student_name.png+');
+    save('student_name.png');
  }
  
